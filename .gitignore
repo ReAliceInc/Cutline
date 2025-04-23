@@ -1,0 +1,6 @@
+/venv
+/dist
+/build
+/app.spec
+/app.spec.py
+/app.spec.pyc
